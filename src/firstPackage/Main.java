@@ -9,6 +9,7 @@ public class Main
 		for (int i = 0; i < 50; i++) 
 		{
 			num += 3*i;
+			num -= 3;
 		}
 		
 		System.out.println("Number: "+num);
