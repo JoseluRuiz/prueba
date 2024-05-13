@@ -8,7 +8,7 @@ public class Main
 		
 		for (int i = 0; i < 50; i++) 
 		{
-			num += 2*i;
+			num += 3*i;
 		}
 		
 		System.out.println("Number: "+num);
